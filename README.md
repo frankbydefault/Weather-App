@@ -1,13 +1,15 @@
 # Weather App
 
-This app takes the data from two APIs, first one gets the weather data and second one gets the locations.
+This app displays the weather in realtime. The data is taken from two APIs, first one gets the weather data and second one gets the locations.
 
 1. https://openweathermap.org
 2. https://rapidapi.com/wirefreethought/api/geodb-cities/
 
-## Available Scripts
+You can see it here: [Weather App link](https://frankbydefault.github.io/Weather-App/")
 
-In the project directory, you can run:
+## For localhost
+
+In the project directory run:
 
 ### `npm start`
 
